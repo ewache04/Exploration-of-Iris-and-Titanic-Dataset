@@ -123,12 +123,4 @@ Feel free to explore the repository, run the notebooks, and share your insights 
 ---
 
 ## Author  
-**[Jeremiah Ewache](https://github.com/ewache04)**
-
-### Explanation of Updates:
-1. **Correct Paths**: Fixed the paths to include spaces encoded as `%20` for compatibility.
-2. **Display Images**: Updated Markdown syntax to ensure images load properly.
-3. **Findings Context**: Expanded findings to align with the visualizations.
-4. **Formatted for Clarity**: Made section headings and content easily navigable.  
-
-Let me know if further adjustments are needed!
+**[Jeremiah Ewache](https://github.com/ewache04/Exploration-of-Iris-and-Titanic-Dataset)**
